@@ -10,7 +10,10 @@ let mirian = {
     hobbies: ['Chess', 'Anime', 'Playing Guitar']
 };
 ```
-
+<!--
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miriann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriann&layout=compact&langs_count=7&theme=dracula"/>
+-->
 
 ## Minhas **Skills**:
 
@@ -19,10 +22,7 @@ let mirian = {
 <img align="left" alt="js" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="left" alt="python" heigth="30" width="40" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"><br>
 
-<!--
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miriann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriann&layout=compact&langs_count=7&theme=dracula"/>
--->
+
 <br>
 
 ## Contact me
