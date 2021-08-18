@@ -28,7 +28,7 @@ let mirian = {
 ## Contact me
 
 <div>
-<a href = "miriannleit@gmail.com">
+<a href = "mailto:miriannleit@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 <a href = "https://www.linkedin.com/in/mirianleit/">
