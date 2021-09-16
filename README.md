@@ -7,7 +7,6 @@ let mirian = {
     age: 20,
     country: 'Brazil',
     interestedIn: ['HTML', 'CSS', 'Javascript', 'Python', 'React', 'NodeJS'],
-    hobbies: ['Chess', 'Gaming', 'Playing Guitar']
 };
 ```
 <!--
