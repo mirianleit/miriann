@@ -1,6 +1,6 @@
 ### Hi there! My name is Mirian Leite.
 
-I'm a Student of the Computer Science at the Federal University of Ceará, passionate about learning and developing in the area that involves technology. Currently, focusing on topics related to back-end development and front-end web development to become a Full-Stack Developer.
+I'm a Student of the Computer Science at the Federal University of Ceará, passionate about learning and developing. Currently, focusing on topics related to back-end development and front-end web development to become a Full-Stack Developer.
 
 ```javascript
 let miriann = {
