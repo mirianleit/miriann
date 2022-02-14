@@ -6,7 +6,7 @@ I'm a Student of the Computer Science at the Federal University of Ceará, passi
 let miriann = {
     age: 20,
     country: 'Brazil',
-    interestedIn: ['HTML', 'CSS', 'Javascript', 'Python'],
+    interestedIn: ['HTML', 'CSS', 'Javascript', 'Python']
 };
 ```
 <!--
